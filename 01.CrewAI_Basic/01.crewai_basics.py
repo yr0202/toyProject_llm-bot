@@ -65,4 +65,3 @@ print(result)
 # - AI기업. 메인 서버. AI 관련 인퍼런스(추론값) 값은 Python 백엔드로 내려주는 형태
 
 # 프론트엔드는 어떻게 개발하고 계세요? java-jinja template
-# 프론트엔드 프레임워크

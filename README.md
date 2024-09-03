@@ -38,4 +38,4 @@ LLM chat bot to use CrewAI
 
 - pydantic : 파이썬에서 데이터 타입을 명시할 수 있게 해주는 라이브러리
 
-### 3-2. Flask 사용해서 기본적인 챗봇
+### 3-2. Flask 사용해서 기본적인 챗봇 
