@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 from openai import OpenAI
 from database import get_db
-from utils import (  # 유틸리티 함수들을 가져옵니다.
+from utils import (  
     make_prompt,
     extract_customer_name_email,
     get_user_by_name_email,
